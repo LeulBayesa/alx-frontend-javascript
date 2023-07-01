@@ -1,2 +1,1 @@
-# Alx-frontend-javascript
-# ES6 Basics
+# ALX-frontend-javascript
